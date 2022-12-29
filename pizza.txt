@@ -6,4 +6,5 @@ Reciepe from Satyam Pratap Singh
 1.Go to Domino's.com.
 2.Select the pizza.
 3.Order
+4.Pay the bill.
 
